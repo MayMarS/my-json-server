@@ -1,16 +1,144 @@
-{ "additText": 
+{ "products": 
     [
         {
-            "moreText": "Patent Application has a pendency that lasts for one year from the date filing. Hence, you must file a corresponding application during the 12-month pendency period of the PPA to benefit from the filing that was done earlier."
+            "id": 100,
+            "name": "Executive Timekeeper",
+            "model": "Black",
+            "price": 129,
+            "gender": "men"
         },
         {
-            "moreText": "Trademark rights may be used to prevent others from using a confusingly similar mark. Trademarks which are used in interstate or foreign commerce may be registered with the US Patent and Trademark Office (USPTO)."
+            "id": 200,
+            "name": "Graceful Beauty",
+            "model": "Black",
+            "price": 99,
+            "gender": "women"
         },
         {
-            "moreText": "Patent Application has a pendency that lasts for one year from the date filing. Hence, you must file a corresponding application during the 12-month pendency period of the PPA to benefit from the filing that was done earlier."
+            "id": 101,
+            "name": "Explorer Pro",
+            "model": "Black",
+            "price": 139,
+            "gender": "men"
         },
         {
-            "moreText": "Trademark rights may be used to prevent others from using a confusingly similar mark. Trademarks which are used in interstate or foreign commerce may be registered with the US Patent and Trademark Office (USPTO)."
+            "id": 201,
+            "name": "Chic Minimalist",
+            "model": "Black",
+            "price": 119,
+            "gender": "women"
+        },
+        {
+            "id": 102,
+            "name": "Sport Chrono",
+            "model": "Black",
+            "price": 229,
+            "gender": "men"
+        },
+        {
+            "id": 202,
+            "name": "Elegant Timepiece",
+            "model": "Black",
+            "price": 149,
+            "gender": "women"
+        },
+        {
+            "id": 103,
+            "name": "Diver Navigator",
+            "model": "Black",
+            "price": 199,
+            "gender": "men"
+        },
+        {
+            "id": 203,
+            "name": "Smart Timekeeper",
+            "model": "Black",
+            "price": 169,
+            "gender": "women"
+        },
+        {
+            "id": 104,
+            "name": "Military Commando",
+            "model": "Black",
+            "price": 159,
+            "gender": "men"
+        },
+        {
+            "id": 204,
+            "name": "Classic Dress",
+            "model": "Black",
+            "price": 219,
+            "gender": "women"
+        },
+        {
+            "id": 105,
+            "name": "Classic Elegance",
+            "model": "Black",
+            "price": 129,
+            "gender": "men"
+        },
+        {
+            "id": 205,
+            "name": "Luxury Timepiece",
+            "model": "Black",
+            "price": 199,
+            "gender": "women"
+        },
+        {
+            "id": 106,
+            "name": "Tech Stealth",
+            "model": "Black",
+            "price": 169,
+            "gender": "men"
+        },
+        {
+            "id": 206,
+            "name": "Sporty Chic",
+            "model": "Black",
+            "price": 179,
+            "gender": "women"
+        },
+        {
+            "id": 107,
+            "name": "Racing Chronograph",
+            "model": "Black",
+            "price": 139,
+            "gender": "men"
+        },
+        {
+            "id": 207,
+            "name": "Vintage Glamour",
+            "model": "Black",
+            "price": 99,
+            "gender": "women"
+        },
+        {
+            "id": 108,
+            "name": "Luxury Diver",
+            "model": "Black",
+            "price": 239,
+            "gender": "men"
+        },
+        {
+            "id": 208,
+            "name": "Modern Sleek",
+            "model": "Black",
+            "price": 189,
+            "gender": "women"
+        },
+        {
+            "id": 109,
+            "name": "Minimalist Modern",
+            "model": "Black",
+            "price": 139,
+            "gender": "men"
+        },
+        {
+            "id": 209,
+            "name": "Playful Colors",
+            "model": "Black",
+            "price": 119,
+            "gender": "women"
         }
     ]
 }
