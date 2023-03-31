@@ -5,12 +5,12 @@
             "id": 1,
             "image": "https://www.mvmt.com/on/demandware.static/-/Sites/default/dw6f5f3fdd/images/bannerImages/Desktop_bestsellersmen.jpg",
             "title": "Best Sellers",
-            "text": "Classic style meets modern design."
+            "text": "Classic style meets modern design. Catch your own one."
         },
         {   
             "id": 2,
             "image": "https://www.mvmt.com/on/demandware.static/-/Sites/default/dwa9d837d1/images/bannerImages/WomensJewelryFW22Desktop.jpg",
-            "title": "Women's Jewelry Sales",
+            "title": "Women's Jewelry New",
             "text": "Be inspired by the onset of spring. Every detail is important."
         },
         {   "id": 3,
@@ -53,7 +53,8 @@
         {
             "id": 100,
             "name": "Executive Timekeeper",
-            "model": "Black",
+            "collection": "Maverick",
+            "category": "menWatches",
             "price": 129,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw6d6163e4/images/products/28000281_fr.jpg?sw=512&sh=640&q=85"
@@ -61,7 +62,8 @@
         {
             "id": 200,
             "name": "Graceful Beauty",
-            "model": "Black",
+            "collection": "Bliss",
+            "category": "womenWatches",
             "price": 99,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw57ad2b29/images/products/28000206_fr.jpg?sw=512&sh=640&q=85"
@@ -69,7 +71,8 @@
         {
             "id": 101,
             "name": "Explorer Pro",
-            "model": "Black",
+            "collection": "Frontier",
+            "category": "menWatches",
             "price": 139,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw3b08217b/images/products/28000088_fr.jpg?sw=512&sh=640&q=85"
@@ -77,15 +80,17 @@
         {
             "id": 201,
             "name": "Chic Minimalist",
-            "model": "Black",
+            "collection": "Allure",
+            "category": "womenWatches",
             "price": 119,
             "gender": "women",
-            "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwd27551ab/images/products/28000187_fr.jpg?sw=512&sh=640&q=85"
+            "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwa1e0c231/images/products/28000032_fr.jpg?sw=512&sh=640&q=85"
         },
         {
             "id": 102,
             "name": "Sport Chrono",
-            "model": "Black",
+            "collection": "Frontier",
+            "category": "menWatches",
             "price": 229,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwbad08d0c/images/products/28000118_fr.jpg?sw=512&sh=640&q=85"
@@ -93,7 +98,8 @@
         {
             "id": 202,
             "name": "Elegant Timepiece",
-            "model": "Black",
+            "collection": "Grace",
+            "category": "womenWatches",
             "price": 149,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwb3811f03/images/products/28000279_fr.jpg?sw=512&sh=640&q=85"
@@ -101,7 +107,8 @@
         {
             "id": 103,
             "name": "Diver Navigator",
-            "model": "Black",
+            "collection": "Apex",
+            "category": "menWatches",
             "price": 199,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw741b7154/images/products/28000274_fr.jpg?sw=512&sh=640&q=85"
@@ -109,7 +116,8 @@
         {
             "id": 203,
             "name": "Smart Timekeeper",
-            "model": "Black",
+            "collection": "Bliss",
+            "category": "womenWatches",
             "price": 169,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwc64909f9/images/products/28000120_fr.jpg?sw=512&sh=640&q=85"
@@ -117,7 +125,8 @@
         {
             "id": 104,
             "name": "Military Commando",
-            "model": "Black",
+            "collection": "Maverick",
+            "category": "menWatches",
             "price": 159,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw04d523e0/images/products/28000200_fr.jpg?sw=512&sh=640&q=85"
@@ -125,7 +134,8 @@
         {
             "id": 204,
             "name": "Classic Dress",
-            "model": "Black",
+            "collection": "Grace",
+            "category": "womenWatches",
             "price": 219,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw97f1fc4b/images/products/MF03-SS_fr.jpg?sw=512&sh=640&q=85"
@@ -133,15 +143,17 @@
         {
             "id": 105,
             "name": "Classic Elegance",
-            "model": "Black",
+            "collection": "Apex",
+            "category": "menWatches",
             "price": 129,
             "gender": "men",
-            "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw166f6ac7/images/products/28000211_fr.jpg?sw=512&sh=640&q=85"
+            "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw4f15bf1a/images/products/28000310_fr.jpg?sw=512&sh=640&q=85"
         },
         {
             "id": 205,
             "name": "Luxury Timepiece",
-            "model": "Black",
+            "collection": "Allure",
+            "category": "womenWatches",
             "price": 199,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwbe3cf72b/images/products/28000114_fr.jpg?sw=512&sh=640&q=85"
@@ -149,15 +161,17 @@
         {
             "id": 106,
             "name": "Tech Stealth",
-            "model": "Black",
+            "collection": "Frontier",
+            "category": "menWatches",
             "price": 169,
             "gender": "men",
-            "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwd2b921c1/images/products/28000231_fr.jpg?sw=512&sh=640&q=85"
+            "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw6a1ec892/images/products/28000284_fr.jpg?sw=512&sh=640&q=85"
         },
         {
             "id": 206,
             "name": "Sporty Chic",
-            "model": "Black",
+            "collection": "Bliss",
+            "category": "womenWatches",
             "price": 179,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwa9c6cd48/images/products/MA01-RGGR_fr.jpg?sw=512&sh=640&q=85"
@@ -165,7 +179,8 @@
         {
             "id": 107,
             "name": "Racing Chronograph",
-            "model": "Black",
+            "collection": "Apex",
+            "category": "menWatches",
             "price": 139,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwedecc9bd/images/products/28000149_fr.jpg?sw=512&sh=640&q=85"
@@ -173,7 +188,8 @@
         {
             "id": 207,
             "name": "Vintage Glamour",
-            "model": "Black",
+            "collection": "Grace",
+            "category": "womenWatches",
             "price": 99,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw3a1d1574/images/products/28000201_fr.jpg?sw=512&sh=640&q=85"
@@ -181,7 +197,8 @@
         {
             "id": 108,
             "name": "Minimalist Modern",
-            "model": "Black",
+            "collection": "Maverick",
+            "category": "menWatches",
             "price": 139,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwc390af57/images/products/L213.1L.331_fr.jpg?sw=512&sh=640&q=85"
@@ -189,7 +206,8 @@
         {
             "id": 208,
             "name": "Modern Sleek",
-            "model": "Black",
+            "collection": "Allure",
+            "category": "womenWatches",
             "price": 189,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw866017ea/images/products/28000277_fr.jpg?sw=512&sh=640&q=85"
@@ -197,7 +215,8 @@
         {
             "id": 109,
             "name": "Luxury Diver",
-            "model": "Black",
+            "collection": "Frontier",
+            "category": "menWatches",
             "price": 239,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw9b712af0/images/products/28000203_fr.jpg?sw=512&sh=640&q=85"
@@ -205,11 +224,33 @@
         {
             "id": 209,
             "name": "Playful Colors",
-            "model": "Black",
+            "collection": "Bliss",
+            "category": "womenWatches",
             "price": 119,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw0e3331e0/images/products/MB01-RGLAMA_fr.jpg?sw=512&sh=640&q=85"
+        },
+
+        
+        {
+            "1": 
+            
+                {
+                    "id": 203,
+                    "name": "Smart Timekeeper",
+                    "collection": "Bliss",
+                    "category": "womenWatches",
+                    "description": "Cut from genuine marble, the Venice Silver's unique 38mm white marble dial is the only one of its kind. Featuring a polished silver case and mesh bracelet strap.",
+                    "specification": "",
+                    "shipping&returns": "",
+                    "price": 169,
+                    "gender": "women",
+                    "image1": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwc656d8e2/images/products/MB01-SMA_fr.jpg?sw=800&sh=800",
+                    "image2": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw2ff48377/images/products/MB01-SMA_s.jpg?sw=800&sh=800"
+                }
+            
         }
+
     ]
 }
 
