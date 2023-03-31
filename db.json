@@ -20,6 +20,34 @@
         }
     ],
 
+    "categories": 
+    [
+        {
+            "id": 1,
+            "title": "Men's Watches",
+            "image": "https://www.mvmt.com/on/demandware.static/-/Sites-mvmt-us-storefront/default/dwcc7bf3b5/Navigation/AprilFools_FlashSale.jpg",
+            "text": ""
+        },
+        {
+            "id": 2,
+            "title": "Women's Watches",
+            "image": "https://cdn-yotpo-images-production.yotpo.com/instagram/53/17934426290525153/medium.jpg",
+            "text": ""
+        },
+        {
+            "id": 3,
+            "title": "Necklaces",
+            "image": "https://cdn.builder.io/api/v1/image/assets%2F8a0dd03ad52340849785aa8840f575d4%2Fe21e7b4ed54a42b48314c5afba5aa171?format=webp&width=2000",
+            "text": ""
+        },
+        {
+            "id": 4,
+            "title": "Bracelets",
+            "image": "https://cdn.builder.io/api/v1/image/assets%2F8a0dd03ad52340849785aa8840f575d4%2Ff6d634412ac7484a9524b1a499e35e48?format=webp&width=2000",
+            "text": ""
+        }
+    ],
+
     "products": 
     [
         {
