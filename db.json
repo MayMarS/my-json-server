@@ -229,26 +229,6 @@
             "price": 119,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw0e3331e0/images/products/MB01-RGLAMA_fr.jpg?sw=512&sh=640&q=85"
-        },
-
-        
-        {
-            "1": 
-            
-                {
-                    "id": 203,
-                    "name": "Smart Timekeeper",
-                    "collection": "Bliss",
-                    "category": "womenWatches",
-                    "description": "Cut from genuine marble, the Venice Silver's unique 38mm white marble dial is the only one of its kind. Featuring a polished silver case and mesh bracelet strap.",
-                    "specification": "",
-                    "shipping&returns": "",
-                    "price": 169,
-                    "gender": "women",
-                    "image1": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwc656d8e2/images/products/MB01-SMA_fr.jpg?sw=800&sh=800",
-                    "image2": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw2ff48377/images/products/MB01-SMA_s.jpg?sw=800&sh=800"
-                }
-            
         }
 
     ]
