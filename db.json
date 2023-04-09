@@ -51,10 +51,10 @@
     "products": 
     [
         {
-            "id": 100,
+            "id": 1,
             "name": "Executive Timekeeper",
             "collection": "Maverick",
-            "category": "menWatches",
+            "category": 1,
             "price": 129,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw6d6163e4/images/products/28000281_fr.jpg?sw=512&sh=640&q=85",
@@ -67,10 +67,10 @@
             "image4": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw319f4e17/images/products/28000281_l_2.jpg?sw=800&sh=800"
         },
         {
-            "id": 200,
+            "id": 2,
             "name": "Graceful Beauty",
             "collection": "Bliss",
-            "category": "womenWatches",
+            "category": 2,
             "price": 99,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw57ad2b29/images/products/28000206_fr.jpg?sw=512&sh=640&q=85",
@@ -83,10 +83,10 @@
             "image4": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw6e0146d3/images/products/28000206_l_1.jpg?sw=800&sh=800"
         },
         {
-            "id": 101,
+            "id": 3,
             "name": "Explorer Pro",
             "collection": "Frontier",
-            "category": "menWatches",
+            "category": 1,
             "price": 139,
             "gender": "men",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw3b08217b/images/products/28000088_fr.jpg?sw=512&sh=640&q=85",
@@ -99,10 +99,10 @@
             "image4": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw8b55abaa/images/products/28000088_l_3.jpg?sw=800&sh=800"
         },
         {
-            "id": 201,
+            "id": 4,
             "name": "Chic Minimalist",
             "collection": "Allure",
-            "category": "womenWatches",
+            "category": 2,
             "price": 119,
             "gender": "women",
             "image": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dw6215eb51/images/products/28000166_fr.jpg?sw=512&sh=640&q=85",
